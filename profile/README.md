@@ -1,4 +1,4 @@
-> BETA Testing
+> THIS IS THE BETA TESTING ORGANIZATION, THE PUBLIC REPOSITORY IS HERE: https://github.com/IndexingGitHub/PolyPlus
 # Poly+
 Poly+ is an upcoming quality-of-life browser extension for the Polytoria website! The extension provides tons of improvements to improve your experience on Polytoria!
 
